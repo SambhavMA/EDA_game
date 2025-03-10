@@ -1,6 +1,6 @@
 # Proyecto Crematoria – Jugador IA en C++
 
-Este proyecto representa el desarrollo de un jugador inteligente para el juego "Crematoria", realizado como parte de mi formación en la UNI. Durante este proyecto, apliqué intensamente los conceptos aprendidos en la teoría de grafos para diseñar algoritmos de movimiento y toma de decisiones complejas en un entorno de juego multifacético.
+Este proyecto representa el desarrollo de un jugador inteligente para el juego "Crematoria", realizado como parte de mi formación en la Universidad. Durante este proyecto, apliqué intensamente los conceptos aprendidos en la teoría de grafos para diseñar algoritmos de movimiento y toma de decisiones complejas en un entorno de juego multifacético.
 
 Toda la documentación del proyecto está en: [Juego EDA](P66622_en.pdf)
 
